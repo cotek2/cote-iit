@@ -1,0 +1,93 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<html>
+  <head>
+    <title>Lab4 XML</title>
+    <meta http-equiv="Content-Type" content= "text/html; charset=UTF-8">
+    <style type="text/css">
+      body{
+          font-family: 'Times New Roman', Times, serif;
+      }
+     
+    </style>
+</head>
+<body>
+<feed xmlns="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml">
+  <title>NYT > Technology</title>
+  <link href="https://www.nytimes.com/section/technology" rel="self"/>
+  <link href="https://www.nytimes.com/section/technology"/>
+  <copyright>Copyright 2020 The New York Times Company</copyright>
+  <updated>Mon, 05 Oct 2020 21:34:01 +0000</updated>
+  <author>
+  <name>Nicole Perlroth</name>
+  </author>
+  <entry>
+    <title>Clinical Trials Hit by Ransomware Attack on Health Tech Firm</title>
+    <link href="https://www.nytimes.com/2020/10/03/technology/clinical-trials-ransomware-attack-drugmakers.html" rel="standout"/>
+    <updated>Sun, 04 Oct 2020 21:53:43 +0000</updated>
+    <summary>No patients were affected, but the incident was another reminder of the risks in the increasingly common assaults on computer networks.</summary>
+    </entry>
+</feed>
+<feed xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/">
+  <title>The Joe Rogan Experience</title>
+  <link href="https://www.joerogan.com" rel="self"/>
+  <copyright><![CDATA[Copyright © Talking Monkey Productions ]]></copyright>
+  <updated>Thu, 01 Oct 2020 19:03:52 +0000</updated>
+  <author>
+  <name>Joe Rogan</name>
+  </author>
+  <entry>
+    <title>#1544 - Tim Dillon</title>
+    <link href="<![CDATA[http://traffic.libsyn.com/joeroganexp/p1544.mp3]]>" rel="standout"/>
+    <updated>>Thu, 01 Oct 2020 19:00:00 +0000</updated>
+    <summary><![CDATA[Tim Dillon is a comedian, tour guide, and host. His podcast “The Tim Dillon Show” is available on Spotify.]]></summary>
+    </entry>
+</feed>
+<feed xmlns="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" rel="self" type="application/rss+xml">
+  <title>The Ben Shapiro Show</title>
+  <link href="https://www.dailywire.com/podcasts/show/ben-shapiro-show"/>
+  <updated>Mon, 05 Oct 2020 16:45:00 -0000</updated>
+  <author>
+  <name>The Daily Wire</name>
+  </author>
+  <entry>
+    <title>Ep. 1108 - The Covid Botchery</title>
+    <link href="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/8G441/traffic.megaphone.fm/WWO1086776360.mp3" length="0" type="audio/mpeg"/>
+    <updated>Mon, 05 Oct 2020 16:45:00 -0000</updated>
+    <summary>Trump’s communications team can’t set the record straight on the president’s health; Trump takes an ill-advised ride around the hospital; and Democrats try to conceal their glee as they politically maneuver. Get your copy of "How to Destroy America in Three Easy Steps" here: https://utm.io/uHjV If you like The Ben Shapiro Show, become a member TODAY with promo code: SHAPIRO and enjoy the exclusive benefits for 10% off at https://www.dailywire.com/shapiro</summary>
+    </entry>
+    <feed xmlns="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml">
+  <title>Dateline NBC</title>
+  <link href="https://art19.com/shows/dateline-nbc" rel="self"/>
+  <link href="new-feed-url>https://podcastfeeds.nbcnews.com/dateline-nbc</itunes:new-feed-url"/>
+  <copyright>Copyright 2015-2020 NPR - For Personal Use Only</copyright>
+  <updated>Thu, 01 Oct 2020 10:00:00 -0000</updated>
+  <author>
+  <name>NBC News</name>
+  <itunes:email>dateline.contactus@nbcuni.com </itunes:email>
+  </author>
+  <entry>
+    <title>Double Lives</title>
+    <link href="https://content.production.cdn.art19.com/images/81/8f/a0/6a/818fa06a-b573-43c9-a870-fef30e9cac5e/7f0421f73d2ce0ca272e392c937e1a301285d44fe7c6d710c2844d80c0c7bb1a3e9838ac03ee80fc64199891cb9d5c6e9d4490f5081fb379c0ab2317f2cadf14.jpeg"/>
+    <updated>Thu, 01 Oct 2020 10:00:00 -0000</updated>
+    <summary><![CDATA[<p>In this Dateline classic, police discover a mother of three was living a dangerous double life after she vanishes in Colorado. Keith Morrison reports.&nbsp;Originally aired on NBC on March 31, 2017.</p>]]></summary>
+    </entry>
+</feed>
+<feed xmlns="http://search.yahoo.com/mrss/">
+  <title>Code Switch</title>
+  <link href="http://www.npr.org/sections/codeswitch/" rel="self"/>
+  <copyright>Copyright 2015-2020 NPR - For Personal Use Only</copyright>
+  <updated>Sat, 03 Oct 2020 06:06:48 -0400</updated>
+  <author>
+  <name>NPR</name>
+  <itunes:email>podcasts@npr.org</itunes:email>
+  </author>
+  <entry>
+    <title>A New Look For The Fashion Industry?</title>
+    <link href="https://www.npr.org/2020/10/02/919468357/a-new-look-for-the-fashion-industry"/>
+    <updated>Sat, 03 Oct 2020 06:06:48 -0400</updated>
+    <summary><![CDATA[ Fall is the time for glossy fashion magazines, full of dazzling looks and the seasons hottest looks. But this year, we noticed something unusual: The covers of a bunch of major magazines fashion magazines featured Black folks. So we called up fashion critic Robin Givhan to talk about fashion's racial reckoning...and how long before it goes out of style. ]]></summary </entry>
+</feed>
+</body>
+</html>

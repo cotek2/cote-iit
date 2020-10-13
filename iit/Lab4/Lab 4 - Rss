@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"> 
+<html>
+  <head>
+    <title>Lab4 RSS</title>
+    <meta http-equiv="Content-Type" content= "text/html; charset=UTF-8">
+    <style type="text/css">
+      body{
+          font-family: 'Times New Roman', Times, serif;
+      }
+     
+    </style>
+</head>
+<body>
+  <div id="bodyBlock">
+    <h1>This XML file does not appear to have any style information associated with it. The document tree is shown below.</h1>
+    <p>
+      <item>
+       <title>Clinical Trials Hit by Ransomware Attack on Health Tech Firm</title>
+       <link>https://www.nytimes.com/2020/10/03/technology/clinical-trials-ransomware-attack-drugmakers.html</link>
+       <guid isPermaLink="true">https://www.nytimes.com/2020/10/03/technology/clinical-trials-ransomware-attack-drugmakers.html</guid>
+       <atom:link href="https://www.nytimes.com/2020/10/03/technology/clinical-trials-ransomware-attack-drugmakers.html" rel="standout"/>
+       <description>No patients were affected, but the incident was another reminder of the risks in the increasingly common assaults on computer networks.</description>
+       <dc:creator>Nicole Perlroth</dc:creator>
+       <pubDate>Sun, 04 Oct 2020 21:53:43 +0000</pubDate>
+       <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/des">Extortion and Blackmail</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eResearchTechnology Inc (ERT)</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">IQVIA Inc</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AstraZeneca PLC</category>
+       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bristol Myers Squibb Company</category>
+       <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/10/05/business/03erthack-print/03erthack-sub-moth.jpg" width="151"/>
+       <media:credit>Kristoffer Tripplaar/Sipa, via Associated Press</media:credit>
+       <media:description>IQVIA, the contract research organization helping manage AstraZeneca’s Covid-19 vaccine trial, was one of the victims of the attack. It said it had been able to limit problems because it had backed up its data.</media:description>
+      </item>
+      <item>
+			<title>#1544 - Tim Dillon</title>
+			<pubDate>Thu, 01 Oct 2020 19:00:00 +0000</pubDate>
+			<guid isPermaLink="false"><![CDATA[da706681-fa24-44a3-a875-a20ac6be4c8c]]></guid>
+			<link><![CDATA[http://traffic.libsyn.com/joeroganexp/p1544.mp3]]></link>
+			<itunes:image href="http://static.libsyn.com/p/assets/2/f/8/9/2f89f9979d1a2383/JRE1544.jpg" />
+			<description><![CDATA[Tim Dillon is a comedian, tour guide, and host. His podcast “The Tim Dillon Show” is available on Spotify.]]></description>
+			<content:encoded><![CDATA[Tim Dillon is a comedian, tour guide, and host. His podcast “The Tim Dillon Show” is available on Spotify.]]></content:encoded>
+			<enclosure length="237218006" type="audio/mpeg" url="http://traffic.libsyn.com/joeroganexp/p1544.mp3?dest-id=19997" />
+			<itunes:duration>02:44:31</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>podcast,tim,joe,party,experience,dillon,freak,rogan,deathsquad,jre,1544</itunes:keywords>
+			<itunes:subtitle><![CDATA[Tim Dillon is a comedian, tour guide, and host. His podcast “The Tim Dillon Show” is available on Spotify.]]></itunes:subtitle>
+			<itunes:episode>1544</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		  </item>
+      <item>
+      <title>Ep. 1108 - The Covid Botchery</title>
+      <description>Trump’s communications team can’t set the record straight on the president’s health; Trump takes an ill-advised ride around the hospital; and Democrats try to conceal their glee as they politically maneuver. Get your copy of "How to Destroy America in Three Easy Steps" here: https://utm.io/uHjV If you like The Ben Shapiro Show, become a member TODAY with promo code: SHAPIRO and enjoy the exclusive benefits for 10% off at https://www.dailywire.com/shapiro</description>
+      <pubDate>Mon, 05 Oct 2020 16:45:00 -0000</pubDate>
+      <itunes:title>The Covid Botchery</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1108</itunes:episode>
+      <itunes:author>The Daily Wire</itunes:author>
+      <itunes:image href="https://images.megaphone.fm/Xhzzq57INDHlgIgVKUjbURGcLysDMuUw1WZ5DEBtf9E/plain/s3://megaphone-prod/podcasts/1bd4434c-071e-11eb-bd7c-ff9d1aacbabf/image/uploads_2F1601911052427-jyh7a4lz2i-d485f3a468995f04e03ac3c0619936be_2FBS_iTunes_EVPN.jpg"/>
+      <itunes:subtitle/>
+      <itunes:summary>Trump’s communications team can’t set the record straight on the president’s health; Trump takes an ill-advised ride around the hospital; and Democrats try to conceal their glee as they politically maneuver. Get your copy of "How to Destroy America in Three Easy Steps" here: https://utm.io/uHjV If you like The Ben Shapiro Show, become a member TODAY with promo code: SHAPIRO and enjoy the exclusive benefits for 10% off at https://www.dailywire.com/shapiro</itunes:summary>
+      <content:encoded>
+      ...
+      </content:encoded>
+      <itunes:duration>3289</itunes:duration>
+      <guid isPermaLink="false">
+      <![CDATA[ 1bd4434c-071e-11eb-bd7c-ff9d1aacbabf ]]>
+      </guid>
+      <enclosure url="https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chtbl.com/track/8G441/traffic.megaphone.fm/WWO1086776360.mp3" length="0" type="audio/mpeg"/>
+      </item>
+      <item>
+      <title>A New Look For The Fashion Industry?</title>
+      <description>
+      <![CDATA[ Fall is the time for glossy fashion magazines, full of dazzling looks and the seasons hottest looks. But this year, we noticed something unusual: The covers of a bunch of major magazines fashion magazines featured Black folks. So we called up fashion critic Robin Givhan to talk about fashion's racial reckoning...and how long before it goes out of style. ]]>
+      </description>
+      <pubDate>Sat, 03 Oct 2020 06:06:48 -0400</pubDate>
+      <copyright>Copyright 2015-2020 NPR - For Personal Use Only</copyright>
+      <guid isPermalink="false">e4f7e72c-2113-494a-9356-e7da8c82be18</guid>
+      <link>https://www.npr.org/2020/10/02/919468357/a-new-look-for-the-fashion-industry</link>
+      <itunes:title>A New Look For The Fashion Industry?</itunes:title>
+      <itunes:author>NPR</itunes:author>
+      <itunes:summary>
+      <![CDATA[ Fall is the time for glossy fashion magazines, full of dazzling looks and the seasons hottest looks. But this year, we noticed something unusual: The covers of a bunch of major magazines fashion magazines featured Black folks. So we called up fashion critic Robin Givhan to talk about fashion's racial reckoning...and how long before it goes out of style. ]]>
+      </itunes:summary>
+      <itunes:image href="https://media.npr.org/assets/img/2020/10/02/cs-sep2020magcovers_wide-01bac4c0e7f4fc9e7a1fae83d5069d61ad099941.jpg?s=1400"/>
+      <itunes:duration>1152</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <content:encoded>
+      <![CDATA[ Fall is the time for glossy fashion magazines, full of dazzling looks and the seasons hottest looks. But this year, we noticed something unusual: The covers of a bunch of major magazines fashion magazines featured Black folks. So we called up fashion critic Robin Givhan to talk about fashion's racial reckoning...and how long before it goes out of style. ]]>
+      </content:encoded>
+      <enclosure url="https://play.podtrac.com/npr-510312/edge1.pod.npr.org/anon.npr-mp3/npr/codeswitch/2020/10/20201002_codeswitch_robin_interview_ljd_659pm_et.mp3?awCollectionId=510312&awEpisodeId=919468357&orgId=1&topicId=1015&d=1152&p=510312&story=919468357&t=podcast&e=919468357&size=18400542&ft=pod&f=510312" length="18400542" type="audio/mpeg"/>
+      </item>
+      <item>
+      <title>Double Lives</title>
+      <description>
+        <![CDATA[<p>In this Dateline classic, police discover a mother of three was living a dangerous double life after she vanishes in Colorado. Keith Morrison reports.&nbsp;Originally aired on NBC on March 31, 2017.</p>]]>
+      </description>
+      <itunes:title>Double Lives</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:summary>In this Dateline classic, police discover a mother of three was living a dangerous double life after she vanishes in Colorado. Keith Morrison reports. Originally aired on NBC on March 31, 2017.</itunes:summary>
+      <content:encoded>
+        <![CDATA[<p>In this Dateline classic, police discover a mother of three was living a dangerous double life after she vanishes in Colorado. Keith Morrison reports.&nbsp;Originally aired on NBC on March 31, 2017.</p>]]>
+      </content:encoded>
+      <guid isPermaLink="false">gid://art19-episode-locator/V0/lot7MufrqVHcCu2nxGZtvyB4MI4rx-XhzRSeauZPEmY</guid>
+      <pubDate>Thu, 01 Oct 2020 10:00:00 -0000</pubDate>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://content.production.cdn.art19.com/images/81/8f/a0/6a/818fa06a-b573-43c9-a870-fef30e9cac5e/7f0421f73d2ce0ca272e392c937e1a301285d44fe7c6d710c2844d80c0c7bb1a3e9838ac03ee80fc64199891cb9d5c6e9d4490f5081fb379c0ab2317f2cadf14.jpeg" />
+      <itunes:keywords>TRUE CRIME,News,SOCIAL,CULTURE</itunes:keywords>
+      <itunes:duration>01:24:20</itunes:duration>
+      <enclosure url="https://dts.podtrac.com/redirect.mp3/chtbl.com/track/6D589D/pdst.fm/e/rss.art19.com/episodes/ba1d1b19-71b7-47bd-a221-4a79c9f57d81.mp3" type="audio/mpeg" length="80963291" />
+    </item>
+    </p>
+  </div>
+</body>
+</html>
